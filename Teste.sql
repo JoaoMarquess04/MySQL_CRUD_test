@@ -37,5 +37,11 @@ values ('10067', 'Acidente sem vítima', 'São Paulo', '2014-02-10', 'DQJ-7890')
 ('12009', 'Colisão com motociclista', 'Guarulhos', '2021-03-31', 'DRE-9912'),
 ('15998', 'Veículo assaltado', 'São Paulo', '1993-07-26', 'RTY-9816');
 
+select * from modelo;
+select * from automoveis;
+select * from Ocorrencias;
+
+
+drop database dbocorrencia;
 
 
